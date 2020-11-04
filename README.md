@@ -3,7 +3,7 @@
 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mario%20Cesar%20Jr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mcsjunior)](https://www.linkedin.com/in/mcsjunior)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mcsjuniorsouza@gmail.com)](mailto:mcsjuniorsouza@gmail.com/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mcsjuniorsouza@gmail.com)](mailto:mcsjuniorsouza@gmail.com)
 <!--
 **MarioCesarJr/MarioCesarJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
