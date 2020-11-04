@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me:
+
 [![Linkedin Badge](https://img.shields.io/badge/-Mario%20Cesar%20Jr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mcsjunior)](https://www.linkedin.com/in/mcsjunior)
 <!--
 **MarioCesarJr/MarioCesarJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
